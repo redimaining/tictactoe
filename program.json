@@ -1,6 +1,10 @@
 {
-    "program": "tictactoe.aleo",
-    "version": "0.0.0",
-    "description": "",
-    "license": "MIT"
+  "semi": true,
+  "trailingComma": "all",
+  "singleQuote": true,
+  "printWidth": 120,
+  "tabWidth": 2,
+  "bracketSpacing": true,
+  "parser": "typescript",
+  "endOfLine": "auto"
 }
